@@ -1325,6 +1325,7 @@ cfg.garages = {
 		-- [""] = {"",100000000,""},
 
 		--Locked VIP Vehicles--
+        ["4x4gle"] = {"Gle 4x4"},100000000, ""}, -- Fury
 		["demonhawkk"] = {"Jeep Demonhawkk Widebody",100000000, ""}, -- c (founder lock)
 		["titanhawk"] = {"Jeep Cherokee Trackhawk Titan Kit",100000000, ""}, -- foid (management lock)
 		["RSQR8"] = {"Audi RSQ8R",100000000, ""}, -- c
