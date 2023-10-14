@@ -588,6 +588,7 @@ cfg.garages = {
 		["lp770"] = {"Lamborghini LP770",100000000, "lp770"},
 		["720s"] = {"McLaren 720s",100000000, "720s"},
 		["f430s"] = {"Ferrari F430s",100000000, "f430s"},
+		["4x4gle"] = {"Gle 4x4",100000000, "f430s"},
 		["gtoxx"] = {"Ferrari GTOXX",100000000, "gtoxx"},
 		["rs7"] = {"Audi RS7",100000000, "rs7"},
 		["acs8"] = {"BMW i8",100000000, "acs8"},
