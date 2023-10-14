@@ -7,8 +7,8 @@ cfg.garages = {
 		["kamaz6396"] = {"Kamaz 6396",1000000000,""},
 		["blista"] = {"Citreon",999999999,""},
 		["shitcar"] = {"Fiat Multipla",999999999,""},
-		["dilettante"] = {"Toyota Prius",999999999,""},
 		["amv19"] = {"Aston Martin 2019",100000000, "amv19"},
+		["dilettante"] = {"Toyota Prius",999999999,""},
 		["volks"] = {"Volkswagen*",999999999,""},
 		["leon"] = {"Leon Gal",999999999,""},
 		["fiat"] = {"Fiat 126p",999999999,""},
@@ -1325,8 +1325,6 @@ cfg.garages = {
 		-- [""] = {"",100000000,""},
 
 		--Locked VIP Vehicles--
-		["_config"] = {blipid=225,blipcolor=5,markerid=36,markercolours={0,200,0},permissions={"vip.garages"},type="vehicle"},
-        ["4x4gle"] = {"Gle 4x4"},100000000, ""}, -- Fury
 		["demonhawkk"] = {"Jeep Demonhawkk Widebody",100000000, ""}, -- c (founder lock)
 		["titanhawk"] = {"Jeep Cherokee Trackhawk Titan Kit",100000000, ""}, -- foid (management lock)
 		["RSQR8"] = {"Audi RSQ8R",100000000, ""}, -- c
