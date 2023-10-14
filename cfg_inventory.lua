@@ -90,6 +90,7 @@ cfg.vehicle_chest_weights = {
     ["titanhawk"] = 100,
     ["conceptr"] = 100,
     ["audiq2offroad"] = 100,
+    ["aluV2"] = 150,
 }
 
 
