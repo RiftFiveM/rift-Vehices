@@ -1325,6 +1325,7 @@ cfg.garages = {
 		-- [""] = {"",100000000,""},
 
 		--Locked VIP Vehicles--
+		["_config"] = {blipid=225,blipcolor=5,markerid=36,markercolours={0,200,0},permissions={"vip.garages"},type="vehicle"},
         ["4x4gle"] = {"Gle 4x4"},100000000, ""}, -- Fury
 		["demonhawkk"] = {"Jeep Demonhawkk Widebody",100000000, ""}, -- c (founder lock)
 		["titanhawk"] = {"Jeep Cherokee Trackhawk Titan Kit",100000000, ""}, -- foid (management lock)
