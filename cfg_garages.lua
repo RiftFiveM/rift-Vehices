@@ -582,7 +582,7 @@ cfg.garages = {
 		["keyrusheli"] = {"Keyrus Helicopter",100000000, ""}, -- weetabix 1:1
   	},
   	["VIP Cars"] = {
-		["_config"] = {blipid=225,blipcolor=5,markerid=36,markercolours={0,200,0},permissions={"vip.gunstore"},type="vehicle"},
+		["_config"] = {blipid=225,blipcolor=5,markerid=36,markercolours={0,200,0},permissions={"vip.garage"},type="vehicle"},
 		--VIP Cars
 		["bugatti"] = {"Bugatti",100000000, "bugatti"},
 		["lp770"] = {"Lamborghini LP770",100000000, "lp770"},
@@ -594,6 +594,7 @@ cfg.garages = {
 		["acs8"] = {"BMW i8",100000000, "acs8"},
 		["autarch"] = {"Autarch",100000000, "autarch"},
 		["baller5"] = {"Armored Range Rover", 100000000, ""},
+		["mobm23"] = {"BMW X7 2023 x SS Concept", 100000000, ""},
 		["turismor"] = {"Lambo Gallardo",100000000,""},
 		["t20"] = {"McLaren P1",100000000,""},
 		["spyder"] = {"Ferrari",100000000,""},
