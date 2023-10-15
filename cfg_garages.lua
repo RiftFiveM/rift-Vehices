@@ -1422,6 +1422,7 @@ cfg.garages = {
 		["x6c"] = {"BMW X6C Pickup",100000000,""},
 		["aluV2"] = {"Alumi Craft V2",100000000,""},
 		["f40"] = {"Ferrari F40",100000000,""},
+		["21HellTRX"] = {"Hell TRX",100000000,""},
 	},
   	["Standard Boats"] = {
 		["_config"] = {blipid=427,blipcolor=7,markerid=35,markercolours={0,200,0},permissions={},type="sea"},
