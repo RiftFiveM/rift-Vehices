@@ -92,7 +92,7 @@ cfg.vehicle_chest_weights = {
     ["audiq2offroad"] = 100,
     ["aluV2"] = 150,
     ["21HellTRX"] = 200,
-    
+    ["tc63s"] = 150,
 }
 
 

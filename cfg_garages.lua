@@ -1423,6 +1423,7 @@ cfg.garages = {
 		["aluV2"] = {"Alumi Craft V2",100000000,""},
 		["f40"] = {"Ferrari F40",100000000,""},
 		["21HellTRX"] = {"Hell TRX",100000000,""},
+		["tc63s"] = {"Mercedes Benz GT63s",100000000,""},
 	},
   	["Standard Boats"] = {
 		["_config"] = {blipid=427,blipcolor=7,markerid=35,markercolours={0,200,0},permissions={},type="sea"},
