@@ -1425,6 +1425,9 @@ cfg.garages = {
 		["21HellTRX"] = {"Hell TRX",100000000,""},
 		["tc63s"] = {"Mercedes Benz GT63s",100000000,""},
 		["weeney"] = {"Serios Secret Sauce",100000000,""},
+		["tr87"] = {"Ferrari Testarossa Avante Widebody",100000000,""},
+		["kr200"] = {"Dinger",100000000,""},
+		["q8hycade"] = {"Audi Q8 Hycade",100000000,""},
 	},
   	["Standard Boats"] = {
 		["_config"] = {blipid=427,blipcolor=7,markerid=35,markercolours={0,200,0},permissions={},type="sea"},

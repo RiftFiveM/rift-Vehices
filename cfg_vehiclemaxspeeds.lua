@@ -17,6 +17,8 @@ cfg.vehicleMaxSpeeds = {
     [`bm422pxx2ncs`] = "1000",
     [`aluV2`] = "300",
     [`tc63s`] = "300",
+    [`q8hycade`] = "300",
+    
 }
 
 return cfg
