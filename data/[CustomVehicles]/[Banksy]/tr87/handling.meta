@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <CHandlingDataMgr>
   <HandlingData>
     <Item>
       <handlingName>tr87</handlingName>
-      <fMass value="1850" />
+            <fMass value="1850" />
 			<fInitialDragCoeff value="2.0" />
 			<fDownforceModifier value="5.0" />
 			<fPercentSubmerged value="85.0" />
