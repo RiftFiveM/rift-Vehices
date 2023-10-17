@@ -582,7 +582,7 @@ cfg.garages = {
 		["keyrusheli"] = {"Keyrus Helicopter",100000000, ""}, -- weetabix 1:1
   	},
   	["VIP Cars"] = {
-		["_config"] = {blipid=225,blipcolor=5,markerid=36,markercolours={0,200,0},permissions={"vip.garage"},type="vehicle"},
+		["_config"] = {blipid=225,blipcolor=5,markerid=36,markercolours={0,200,0},permissions={"vip.garages"},type="vehicle"},
 		--VIP Cars
 		["bugatti"] = {"Bugatti",100000000, "bugatti"},
 		["lp770"] = {"Lamborghini LP770",100000000, "lp770"},
