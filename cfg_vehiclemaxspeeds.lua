@@ -12,13 +12,13 @@ cfg.maxSpeeds = {
 }
 
 cfg.vehicleMaxSpeeds = {
-    [`demonhawkk`] = "1000",
+    [`editz`] = "1000",
     [`bad`] = "1000",
     [`bm422pxx2ncs`] = "1000",
     [`aluV2`] = "300",
     [`tc63s`] = "300",
     [`q8hycade`] = "300",
-    [`jeep20stormtrooper`] = "450",
+    [`jeep20stormtrooper`] = "1000",
     
 }
 

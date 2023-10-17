@@ -1327,7 +1327,7 @@ cfg.garages = {
 		-- [""] = {"",100000000,""},
 
 		--Locked VIP Vehicles--
-		["demonhawkk"] = {"Jeep Demonhawkk Widebody",100000000, ""}, -- c (founder lock)
+		["editz"] = {"Jeep Demonhawkk Widebody",100000000, ""},
 		["titanhawk"] = {"Jeep Cherokee Trackhawk Titan Kit",100000000, ""}, -- foid (management lock)
 		["RSQR8"] = {"Audi RSQ8R",100000000, ""}, -- c
 		["rsq8mans"] = {"Audi RSQ8 Mansory",100000000, ""}, -- trapstar
@@ -1511,6 +1511,7 @@ cfg.garageInstances = {
 	{"Standard Garage", vector3(-259.0801, -680.3947, 32.83048), true},
 	{"Diamond Casino", vector3(975.7873, 7.391085, 81.04121), true},
 	{"Standard Garage", vector3(324.6512, -210.143, 54.08627), true},
+	{"Standard Garage", vector3(-461.4411315918,6041.134765625,31.340522766113), true},
 	{"Standard Garage", vector3(-36.3331, -674.0972, 32.33806), true},
 	{"Standard Garage", vector3(1274.714, -1732.708, 52.04537), true},
 	{"Standard Garage", vector3(971.2551, -137.6384, 74.31563), true},

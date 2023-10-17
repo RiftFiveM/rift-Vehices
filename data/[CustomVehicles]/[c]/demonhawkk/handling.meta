@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
  <HandlingData>
   	<Item type="CHandlingData">
-        <handlingName>demonhawkk</handlingName>
+        <handlingName>editz</handlingName>
         <fMass value="8000.0" />
 			<fInitialDragCoeff value="1.5" />
 			<fDownforceModifier value="40.0" />

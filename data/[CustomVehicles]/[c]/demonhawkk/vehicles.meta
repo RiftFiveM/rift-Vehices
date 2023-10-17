@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>demonhawkk</modelName>
-      <txdName>demonhawkk</txdName>
-      <handlingId>demonhawkk</handlingId>
-      <gameName>demonhawkk</gameName>
+      <modelName>editz</modelName>
+      <txdName>editz</txdName>
+      <handlingId>editz</handlingId>
+      <gameName>editz</gameName>
       <vehicleMakeName>JEEP</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -120,21 +120,11 @@
         <Item>STD_DOMINATOR_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-
-
-
-
-
-
-
-
-
-
   </InitDatas>
   <txdRelationships>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>demonhawkk</child>
+      <child>editz</child>
     </Item>
 
 
