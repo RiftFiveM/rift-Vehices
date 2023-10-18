@@ -1430,6 +1430,7 @@ cfg.garages = {
 		["q8hycade"] = {"Audi Q8 Hycade",100000000,""},
 		["ksd"] = {"Surron Light Bee",100000000,""},
 		["motogirl"] = {"Rifts kitten",100000000,""},
+		["rsq3hycade"] = {"RSQ3 HYCADE EDITION",100000000,""},
 	},
   	["Standard Boats"] = {
 		["_config"] = {blipid=427,blipcolor=7,markerid=35,markercolours={0,200,0},permissions={},type="sea"},

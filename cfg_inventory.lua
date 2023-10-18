@@ -93,6 +93,7 @@ cfg.vehicle_chest_weights = {
     ["aluV2"] = 150,
     ["21HellTRX"] = 200,
     ["tc63s"] = 150,
+    ["rsq3hycade"] = 150,
 }
 
 
