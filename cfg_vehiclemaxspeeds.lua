@@ -19,7 +19,8 @@ cfg.vehicleMaxSpeeds = {
     [`tc63s`] = "300",
     [`q8hycade`] = "300",
     [`jeep20stormtrooper`] = "1000",
-    [`rsq3hycade`] = "300",
+    [`rsq3hycade`] = "1000",
+    [`hyclambo`] = "300",
     
     
 }
