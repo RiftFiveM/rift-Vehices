@@ -11,6 +11,7 @@ cfg.garages = {
 		["dilettante"] = {"Toyota Prius",999999999,""},
 		["volks"] = {"Volkswagen*",999999999,""},
 		["leon"] = {"Leon Gal",999999999,""},
+		["abfrover"] = {"Free car",999999999,""},
 		["fiat"] = {"Fiat 126p",999999999,""},
 		["civic"] = {"Honda Civic",999999999,""},
 		["joketaxi"] = {"Tug",999999999,""},
