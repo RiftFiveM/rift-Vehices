@@ -21,6 +21,7 @@ cfg.vehicleMaxSpeeds = {
     [`jeep20stormtrooper`] = "1000",
     [`rsq3hycade`] = "1000",
     [`hyclambo`] = "300",
+    [`priorrs3`] = "300",
     
     
 }
