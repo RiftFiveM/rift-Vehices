@@ -262,6 +262,7 @@ cfg.garages = {
 		["rx7hw"] = {"Mazda RX7 Halloween 2021",100000000,""},
 		["christmascar"] = {"Nissan Silvia S15 Christmas 2021",100000000,""},
 		["eastercar2022"] = {"Volkswagen Jetta 1995 Easter 2022",100000000,""},
+		["lp700"] = {"Hamann Aventador LP700",100000000,""},
 		["taxi"] = {"London Taxi",0, ""},
 		["a35raid"] = {"Mercedes A35 Raid",0, ""},
 		-- [""] = {"",100000000,""},
