@@ -1437,6 +1437,8 @@ cfg.garages = {
 		["930mnchimu"] = {"Neo's whip",100000000,""},
 		["hyclambo"] = {"Lamboghini Hycade edition",100000000,""},
 		["priorrs3"] = {"Prior RS3",100000000,""},
+		["babywalker"] = {"Babywalker",100000000,""},
+		["hychawk"] = {"Hychawk",100000000,""},
 
 	},
   	["Standard Boats"] = {
