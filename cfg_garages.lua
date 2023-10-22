@@ -1439,6 +1439,7 @@ cfg.garages = {
 		["priorrs3"] = {"Prior RS3",100000000,""},
 		["babywalker"] = {"Babywalker",100000000,""},
 		["hychawk"] = {"Hychawk",100000000,""},
+		["tundrat"] = {"Toyota Trophy Truck",100000000,""},
 
 	},
   	["Standard Boats"] = {
