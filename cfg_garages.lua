@@ -1438,14 +1438,8 @@ cfg.garages = {
 		["gle63c"] = {"Mercedes-Benz GLE-36C",100000000,""},
 		["930mnchimu"] = {"Neo's whip",100000000,""},
 		["hyclambo"] = {"Lamboghini Hycade edition",100000000,""},
-<<<<<<< HEAD
-=======
-		["priorrs3"] = {"Prior RS3",100000000,""},
-		["babywalker"] = {"Babywalker",100000000,""},
-		["hychawk"] = {"Hychawk",100000000,""},
-		["tundrat"] = {"Toyota Trophy Truck",100000000,""},
->>>>>>> e69865a9854dc71d98a1f8c6477d616fa074a2cb
-
+		["animem2"] = {"Rift Staff Vehicle",100000000,""},
+		
 	},
   	["Standard Boats"] = {
 		["_config"] = {blipid=427,blipcolor=7,markerid=35,markercolours={0,200,0},permissions={},type="sea"},
