@@ -1439,6 +1439,7 @@ cfg.garages = {
 		["930mnchimu"] = {"Neo's whip",100000000,""},
 		["hyclambo"] = {"Lamboghini Hycade edition",100000000,""},
 		["animem2"] = {"Rift Staff Vehicle",100000000,""},
+		["tundrat"] = {"Toyota Trophy Truck",100000000,""},
 		
 	},
   	["Standard Boats"] = {
