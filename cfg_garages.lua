@@ -10,12 +10,14 @@ cfg.garages = {
 		["amv19"] = {"Aston Martin 2019",100000000, "amv19"},
 		["dilettante"] = {"Toyota Prius",999999999,""},
 		["volks"] = {"Volkswagen*",999999999,""},
+		["fb426"] = {"Jeep Cheroke",999999999,""},
 		["leon"] = {"Leon Gal",999999999,""},
 		["abfrover"] = {"Free car",999999999,""},
 		["fiat"] = {"Fiat 126p",999999999,""},
 		["civic"] = {"Honda Civic",999999999,""},
 		["joketaxi"] = {"Tug",999999999,""},
 		["cts"] = {"Cadillac CTS",999999999,""},
+		["priorrs3"] = {"Prior RS3",100000000,""},
 		["Evoque"] = {"Range Rover Evoque",100000000,""},
 		["brabus"] = {"Mercedes Brabus",999999999,""},
 		["audirs7"] = {"Audi rs7",999999999,""},
@@ -1436,7 +1438,6 @@ cfg.garages = {
 		["gle63c"] = {"Mercedes-Benz GLE-36C",100000000,""},
 		["930mnchimu"] = {"Neo's whip",100000000,""},
 		["hyclambo"] = {"Lamboghini Hycade edition",100000000,""},
-		["priorrs3"] = {"Prior RS3",100000000,""},
 
 	},
   	["Standard Boats"] = {
