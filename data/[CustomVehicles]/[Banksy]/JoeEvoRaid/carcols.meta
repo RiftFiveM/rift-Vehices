@@ -7,8 +7,8 @@
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods> 
         <Item>
-          <modelName>Joe_Evo_Raid_trim</modelName>
-          <modShopLabel>Joe_Evo_Raid_trim</modShopLabel>		  
+          <modelName>JoeEvoRaid_trim</modelName>
+          <modShopLabel>JoeEvoRaid_trim</modShopLabel>		  
           <linkedModels />
           <turnOffBones>
             <Item>misc_j</Item>

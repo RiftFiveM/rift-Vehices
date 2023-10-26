@@ -4,7 +4,7 @@
 
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>Joe_Evo_Raid</handlingName>
+      <handlingName>JoeEvoRaid</handlingName>
       <fMass value="2000.0" />
 			<fInitialDragCoeff value="10.24" />
 			<fDownforceModifier value="100.0" />
