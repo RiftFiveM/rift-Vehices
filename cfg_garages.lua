@@ -16,6 +16,7 @@ cfg.garages = {
 		["fiat"] = {"Fiat 126p",999999999,""},
 		["civic"] = {"Honda Civic",999999999,""},
 		["joketaxi"] = {"Tug",999999999,""},
+		["rs6hycadec"] = {"RS6 HYCADE",100000000,""},
 		["cts"] = {"Cadillac CTS",999999999,""},
 		["priorrs3"] = {"Prior RS3",100000000,""},
 		["Evoque"] = {"Range Rover Evoque",100000000,""},
@@ -1440,7 +1441,6 @@ cfg.garages = {
 		["hyclambo"] = {"Lamboghini Hycade edition",100000000,""},
 		["animem2"] = {"Rift Staff Vehicle",100000000,""},
 		["tundrat"] = {"Toyota Trophy Truck",100000000,""},
-		["rs6hycadec"] = {"RS6 HYCADE",100000000,""},
 		
 	},
   	["Standard Boats"] = {
