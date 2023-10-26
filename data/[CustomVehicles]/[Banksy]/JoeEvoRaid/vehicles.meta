@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
 	<Item>
-      <modelName>Joe_Evo_Raid</modelName>
-      <txdName>Joe_Evo_Raid</txdName>
-      <handlingId>Joe_Evo_Raid</handlingId>
-      <gameName>Joe_Evo_Raid</gameName>
+      <modelName>JoeEvoRaid</modelName>
+      <txdName>JoeEvoRaid</txdName>
+      <handlingId>JoeEvoRaid</handlingId>
+      <gameName>JoeEvoRaid</gameName>
       <vehicleMakeName>Mitsubishi</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
