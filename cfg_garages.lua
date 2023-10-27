@@ -1441,11 +1441,6 @@ cfg.garages = {
 		["hyclambo"] = {"Lamboghini Hycade edition",100000000,""},
 		["animem2"] = {"Rift Staff Vehicle",100000000,""},
 		["tundrat"] = {"Toyota Trophy Truck",100000000,""},
-<<<<<<< HEAD
-=======
-		["rs6hycadec"] = {"RS6 HYCADE",100000000,""},
-		["JoeEvoRaid"] = {"Banksys slut",100000000,""},
->>>>>>> 180bfbb74063c9fe7fb118e34c12c3e422f80572
 		
 	},
   	["Standard Boats"] = {

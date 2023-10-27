@@ -95,7 +95,6 @@ cfg.vehicle_chest_weights = {
     ["tc63s"] = 150,
     ["rsq3hycade"] = 150,
     ["tundrat"] = 100,
-    ["JoeEvoRaid"] = 100,
 }
 
 
