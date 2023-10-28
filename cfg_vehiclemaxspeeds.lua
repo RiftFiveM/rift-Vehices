@@ -22,6 +22,7 @@ cfg.vehicleMaxSpeeds = {
     [`rsq3hycade`] = "1000",
     [`hyclambo`] = "300",
     [`priorrs3`] = "300",
+    [`Hazzytoucheskids`] = "300",
     
     
 }

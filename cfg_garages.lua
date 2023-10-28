@@ -597,6 +597,7 @@ cfg.garages = {
 		["gtoxx"] = {"Ferrari GTOXX",100000000, "gtoxx"},
 		["rs7"] = {"Audi RS7",100000000, "rs7"},
 		["acs8"] = {"BMW i8",100000000, "acs8"},
+		["Hazzytoucheskids"] = {"I Pressed Editz For This Car",999999999,""},
 		["autarch"] = {"Autarch",100000000, "autarch"},
 		["baller5"] = {"Armored Range Rover", 100000000, ""},
 		["mobm23"] = {"BMW X7 2023 x SS Concept", 100000000, ""},
@@ -776,6 +777,7 @@ cfg.garages = {
 		["spano"] = {"2016 Spano",1000000000,""}, --!buy out & remove
 		["firebird"] = {"Pontiac Firebird",1000000000,""}, --!buy out & remove
 		["rx7"] = {"Mazda RX7",1000000000,""},
+		["kaosdancegif"] = {"Salim Defender Raid",100000000, ""},
 		["bugattivgt"] = {"Bugatti Vision GT",1000000000,""}, --!buy out & remove
 		["rrstart"] = {"Range Rover Vogue StarTech",1000000000,""},
 		["golfmk7"] = {"Volkswagen Golf MK7",1000000000,""},-- Catalogue Vehicle
@@ -915,7 +917,7 @@ cfg.garages = {
 		["s63w222"] = {"Mercedes S63",50000000,""}, --!shit, buy & remove.
 		["mxv450sm"] = {"Aprilia MXV",50000000,""},
 		["idr"] = {"Volkswagen IDR",50000000,""},
-		["m3e36camber"] = {"BMW M3 E36 Drift",50000000,""}, --!shit, buy & remove.
+		["m3e36camber"] = {"BMW M3 E36 DPolar",50000000,""}, --!shit, buy & remove.
 		["clklm"] = {"Mercedes CLK-LM",50000000,""},
 		["it18"] = {"Italdesign Zerouno",50000000,""},
 		["models"] = {"Tesla Model S",50000000,""},-- Catalogue Vehicle
@@ -953,7 +955,7 @@ cfg.garages = {
 		["cam8tun"] = {"Toyota Camry",50000000,""}, -- Catalogue Vehicle
 		["bcps"] = {"Bugatti Chiron",50000000,""},
 		["tmsm"] = {"tm450",50000000,""},  --!shit, buy & remove.
-		["e36drift"] = {"BMW E36",50000000,""},
+		["e36dPolar"] = {"BMW E36",50000000,""},
 		["rlimo"] = {"Rolls Royce Limo",50000000,""}, -- Catalogue Vehicle
 		["m4f82"] = {"BMW M4 F82",50000000,""},  --!shit, buy & remove.
 		["w202"] = {"Mercedes Benz C200",50000000,""},  --!shit, buy & remove.
@@ -1015,7 +1017,7 @@ cfg.garages = {
 		["subarusj"] = {"Subaru WRX Concept",50000000,""}, --!shit, buy & remove.
 		["whiz"] = {"Mercedes 190e Offroad",50000000,""}, -- Catalogue Vehicle
 		["e63amg"] = {"Mercedes E63AMG",50000000,""}, --!shit, buy & remove.
-		["mx5m"] = {"Mazda MX5 Drift",50000000,""},-- Catalogue Vehicle
+		["mx5m"] = {"Mazda MX5 DPolar",50000000,""},-- Catalogue Vehicle
 		["ninja300"] = {"Kawasaki Ninja 300",50000000,""},
 		["scoobytruck"] = {"Scooby Truck",50000000,""}, --!shit, buy & remove.
 		["ziongtc"] = {"Zion GTC",50000000,""}, --!shit, buy & remove.
@@ -1434,12 +1436,12 @@ cfg.garages = {
 		["kr200"] = {"Dinger",100000000,""},
 		["q8hycade"] = {"Audi Q8 Hycade",100000000,""},
 		["ksd"] = {"Surron Light Bee",100000000,""},
-		["motogirl"] = {"Rifts kitten",100000000,""},
+		["motogirl"] = {"Polars kitten",100000000,""},
 		["rsq3hycade"] = {"RSQ3 HYCADE EDITION",100000000,""},
 		["gle63c"] = {"Mercedes-Benz GLE-36C",100000000,""},
 		["930mnchimu"] = {"Neo's whip",100000000,""},
 		["hyclambo"] = {"Lamboghini Hycade edition",100000000,""},
-		["animem2"] = {"Rift Staff Vehicle",100000000,""},
+		["animem2"] = {"Polar Staff Vehicle",100000000,""},
 		["tundrat"] = {"Toyota Trophy Truck",100000000,""},
 		
 	},
@@ -1773,7 +1775,7 @@ cfg.garageInstances = {
 	{"Standard Helicopters", vector3(1281.0773925781,-3327.146484375,5.9020910263062), true},
 	{"Standard Helicopters", vector3(2723.2458496094,1362.1948242188,24.523998260498), false},
 	{"Standard Garage", vector3(2723.3210449219,1391.7287597656,24.528654098511), false},
-	{"Standard Garage", vector3(-1961.1339111328,1099.1236572266,25.66600227356), false}, -- Cool drift park
+	{"Standard Garage", vector3(-1961.1339111328,1099.1236572266,25.66600227356), false}, -- Cool dPolar park
 	{"Standard Garage", vector3(1068.9447021484,2364.2458496094,-13.478610038757), false}, -- Lloydz Custom MLO garage
 	{"VIP Cars", vector3(-723.25262451172,5820.1108398438,17.265686035156), true},
 	{"Standard Garage", vector3(5163.9165039063,-4948.7529296875,13.848833084106), true}, -- Cayo Perico Garage
