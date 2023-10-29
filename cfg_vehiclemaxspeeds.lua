@@ -23,6 +23,8 @@ cfg.vehicleMaxSpeeds = {
     [`hyclambo`] = "300",
     [`priorrs3`] = "300",
     [`Hazzytoucheskids`] = "300",
+    [`kaosdancegif`] = "300",
+
     
     
 }
